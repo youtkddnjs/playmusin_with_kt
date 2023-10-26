@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "mhha.sample.myapplication"
+    namespace = "mhha.sample.PlayMusic"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "mhha.sample.myapplication"
+        applicationId = "mhha.sample.PlayMusic"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
